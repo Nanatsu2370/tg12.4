@@ -13,7 +13,7 @@ telethon
 tenacity
 pyrogram
 tgcrypto
-aiohttp==3.5.4
+aiohttp
 yarl
-aiohttp_socks==0.7.1
-aiohttp-socks
+aiohttp_socks
+
